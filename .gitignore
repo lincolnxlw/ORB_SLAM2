@@ -14,6 +14,14 @@ Examples/Stereo/stereo_kitti
 KeyFrameTrajectory.txt
 Thirdparty/DBoW2/build/
 Thirdparty/DBoW2/lib/
+Thirdparty/DBoW2/CMakeCache.txt
+Thirdparty/DBoW2/CMakeFiles/
+Thirdparty/DBoW2/Makefile
+Thirdparty/DBoW2/cmake_install.cmake
+Thirdparty/g2o/CMakeCache.txt
+Thirdparty/g2o/CMakeFiles/
+Thirdparty/g2o/Makefile
+Thirdparty/g2o/cmake_install.cmake
 Thirdparty/g2o/build/
 Thirdparty/g2o/config.h
 Thirdparty/g2o/lib/
